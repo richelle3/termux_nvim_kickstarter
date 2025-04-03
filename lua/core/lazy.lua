@@ -26,7 +26,6 @@ require('lazy').setup {
     version = false, -- always use the latest git commit
   },
 
-  -- install = { colorscheme = { 'rose-pine' } },
   checker = {
     enabled = true, -- check for plugin updates periodically
     notify = false, -- notify on update
